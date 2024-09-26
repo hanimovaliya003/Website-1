@@ -1,0 +1,64 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.true-img{
+position:absolute;																																																																													
+  background-size: cover;
+  background-repeat:no-repeat;
+  bottom:430px;
+  float:right;
+  right:739px;
+  transition: 0.1s; 
+}
+.thank h6{
+  font-size: 45px;
+  bottom:340px;
+  float:right;
+  right:556px;
+  position: absolute;
+  font-weight: bold;
+  font-family:Calibri;
+
+}
+.thank h5{
+  font-size: 25px;
+  bottom:257px;
+  float:right;
+  right:660px;
+  position: absolute;
+  font-weight: bold;
+  font-family:Calibri;
+  
+}
+.thank h4{
+  font-size: 25px;
+  bottom:217px;
+  float:right;
+  right:456px;
+  position: absolute;
+  font-weight: bold;
+  font-family:Calibri;
+}
+.btn{
+  font-size: 25px;
+  position: absolute;
+  height: 30px;
+  width: 256px;
+  bottom:115px;
+  float: left;
+  left:600px;
+  text-align:center;
+  padding:5px;
+  cursor: pointer;
+  border-style:solid none;
+  border-radius: 40px;
+  letter-spacing: 2px;
+  transition: all 2s;
+  background-image: radial-gradient(lightpink,black);
+}
+.btn a{
+  text-decoration: none;
+  color:white;
+ }
+

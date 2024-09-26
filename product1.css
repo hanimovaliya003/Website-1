@@ -1,0 +1,1932 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+/*<first product>*/
+
+
+.a1{
+  font-size: 55px;
+  float: left;
+  left:610px;
+  bottom:653px;
+  position: absolute;	
+  font-family:Calibri;
+   color:#a52a2a;
+}
+.a2{
+  float: left;
+  left:100px;
+  bottom:350px;
+  position:absolute;			 																																																																										
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+
+.a2 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+  color:black;
+}
+.a2 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.a2 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+  color:black;
+}
+a:link{
+  color:#000000;
+ }
+ 
+.a3{
+  float: left;
+  left:450px;
+  bottom:350px;
+  position:absolute;																																																																													
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.a3 h6{
+  font-size: 18px;
+  float: left;
+  left:50px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.a3 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.a3 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.a4{
+  float: left;
+  left:800px;
+  bottom:350px;
+  position:absolute;																																																																													
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.a4 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.a4 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.a4 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.a5{
+  float: left;
+  left:1150px;
+  bottom:350px;
+  position:absolute;																																																																													
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.a5 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+.a5 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.a5 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.a6{
+  float: left;
+  left:300px;
+  bottom:-74px;
+  position:absolute;																																																																													
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.a6 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.a6 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.a6 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.a7{
+  float: left;
+  left:643px;
+  bottom:-74px;
+  position:absolute;																																																																													
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.a7 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.a7 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.a7 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.a8{
+  float: left;
+  left:998px;
+  bottom:-74px;
+  position:absolute;																																																																													
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.a8 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.a8 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.a8 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+
+/*<first product>*/
+
+
+
+
+
+
+
+
+
+
+
+/*<second product>*/
+
+
+.b1{
+  font-size: 55px;
+  float: left;
+  left:610px;
+  bottom:-327px;
+  position: absolute; 
+  font-family:Calibri;
+  color:#bb3385;
+}
+.b2{
+  float: left;
+  left:100px;
+  bottom:-642px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.b2 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.b2 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.b2 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.b3{
+  float:left;
+  left:450px;
+  bottom:-643px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.b3 h6{
+  font-size: 18px;
+  float: left;
+  left:50px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.b3 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.b3 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.b4{
+  float: left;
+  left:800px;
+  bottom:-642px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.b4 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.b4 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.b4 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.b5{
+  float: left;
+  left:1150px;
+  bottom:-642px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.b5 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+.b5 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.b5 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.b6{
+  float: left;
+  left:300px;
+  bottom:-1067px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.b6 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.b6 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.b6 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.b7{
+  float: left;
+  left:643px;
+  bottom:-1067px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.b7 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.b7 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.b7 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.b8{
+  float: left;
+  left:998px;
+  bottom:-1067px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.b8 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.b8 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.b8 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+
+/*<second product>*/
+
+
+/*<third product>*/
+
+
+
+
+.c1{
+  font-size: 55px;
+  float: left;
+  left:610px;
+  bottom:-1273px;
+  position: absolute; 
+  font-family:Calibri;
+  color: #ff9999;
+}
+.c2{
+  float: left;
+  left:100px;
+  bottom:-1588px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.c2 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.c2 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.c2 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.c3{
+  float:left;
+  left:450px;
+  bottom:-1588px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.c3 h6{
+  font-size: 18px;
+  float: left;
+  left:50px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.c3 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.c3 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.c4{
+  float: left;
+  left:800px;
+  bottom:-1588px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.c4 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.c4 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.c4 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.c5{
+  float: left;
+  left:1150px;
+  bottom:-1588px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.c5 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+.c5 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.c5 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.c6{
+  float: left;
+  left:300px;
+  bottom:-2015px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.c6 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.c6 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.c6 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.c7{
+  float: left;
+  left:643px;
+  bottom:-2015px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.c7 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.c7 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.c7 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.c8{
+  float: left;
+  left:998px;
+  bottom:-2015px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.c8 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.c8 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.c8 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+
+
+/*<third product>*/
+
+
+
+/*<fotrh product>*/
+
+
+
+
+
+.d1{
+  font-size: 55px;
+  float: left;
+  left:610px;
+  bottom:-2238px;
+  position: absolute; 
+  font-family:Calibri;
+  color:#d2691e;
+}
+.d2{
+  float: left;
+  left:100px;
+  bottom:-2534px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.d2 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.d2 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.d2 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.d3{
+  float:left;
+  left:450px;
+  bottom:-2534px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.d3 h6{
+  font-size: 18px;
+  float: left;
+  left:50px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.d3 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.d3 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.d4{
+  float: left;
+  left:800px;
+  bottom:-2534px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.d4 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.d4 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.d4 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.d5{
+  float: left;
+  left:1150px;
+  bottom:-2534px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.d5 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+.d5 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.d5 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.d6{
+  float: left;
+  left:300px;
+  bottom:-2948px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.d6 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.d6 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.d6 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.d7{
+  float: left;
+  left:643px;
+  bottom:-2948px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.d7 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.d7 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.d7 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.d8{
+  float: left;
+  left:998px;
+  bottom:-2948px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.d8 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.d8 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.d8 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+
+
+/*<forth0 product>*/
+
+
+/*<fifth product>*/
+
+
+
+
+
+.e1{
+  font-size: 55px;
+  float: left;
+  left:610px;
+  bottom:-3162px;
+  position: absolute; 
+  font-family:Calibri;
+  color:#ffa500;
+}
+.e2{
+  float: left;
+  left:100px;
+  bottom:-3459px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.e2 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.e2 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.e2 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.e3{
+  float:left;
+  left:450px;
+  bottom:-3459px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.e3 h6{
+  font-size: 18px;
+  float: left;
+  left:50px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.e3 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.e3 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.e4{
+  float: left;
+  left:800px;
+  bottom:-3469px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.e4 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.e4 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.e4 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.e5{
+  float: left;
+  left:1150px;
+  bottom:-3459px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.e5 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+.e5 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.e5 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.e6{
+  float: left;
+  left:300px;
+  bottom:-3878px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.e6 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.e6 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.e6 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.e7{
+  float: left;
+  left:643px;
+  bottom:-3878px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.e7 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.e7 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.e7 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.e8{
+  float: left;
+  left:998px;
+  bottom:-3878px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.e8 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.e8 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.e8 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+
+
+/*<forth product>*/
+
+/*<fifth product>*/
+
+
+
+
+.f1{
+  font-size: 55px;
+  float: left;
+  left:610px;
+  bottom:-4100px;
+  position: absolute; 
+  font-family:Calibri;
+  color: #ff9999;
+}
+.f2{
+  float: left;
+  left:100px;
+  bottom:-4380px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.f2 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.f2 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.f2 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.f3{
+  float:left;
+  left:450px;
+  bottom:-4380px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.f3 h6{
+  font-size: 18px;
+  float: left;
+  left:50px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.f3 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.f3 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.f4{
+  float: left;
+  left:800px;
+  bottom:-4380px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.f4 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.f4 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.f4 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.f5{
+  float: left;
+  left:1150px;
+  bottom:-4380px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.f5 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+.f5 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.f5 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.f6{
+  float: left;
+  left:300px;
+  bottom:-4791px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.f6 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.f6 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.f6 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.f7{
+  float: left;
+  left:643px;
+  bottom:-4791px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.f7 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.f7 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.f7 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.f8{
+  float: left;
+  left:998px;
+  bottom:-4791px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.f8 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.f8 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.f8 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+
+
+/*<fifth product>*/
+
+
+/*<sixth product>*/
+
+
+
+.g1{
+  font-size: 55px;
+  float: left;
+  left:660px;
+  bottom:-4987px;
+  position: absolute; 
+  font-family:Calibri;
+  color: #a67b5b;
+}
+.g2{
+  float: left;
+  left:100px;
+  bottom:-5264px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.g2 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.g2 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.g2 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.g3{
+  float:left;
+  left:450px;
+  bottom:-5264px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.g3 h6{
+  font-size: 18px;
+  float: left;
+  left:50px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.g3 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.g3 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.g4{
+  float: left;
+  left:800px;
+  bottom:-5264px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.g4 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.g4 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.g4 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.g5{
+  float: left;
+  left:1150px;
+  bottom:-5264px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.g5 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+.g5 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.g5 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.g6{
+  float: left;
+  left:300px;
+  bottom:-5661px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.g6 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.g6 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.g6 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.g7{
+  float: left;
+  left:643px;
+  bottom:-5661px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.g7 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.g7 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.g7 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.g8{
+  float: left;
+  left:998px;
+  bottom:-5661px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.g8 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.g8 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.g8 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+
+
+/*<sixth product>*/
+
+/*<seventh product>*/
+
+
+
+.h1{
+  font-size: 55px;
+  float: left;
+  left:610px;
+  bottom:-5852px;
+  position: absolute; 
+  font-family:Calibri;
+  color:#b2ec5d;
+}
+.h2{
+  float: left;
+  left:100px;
+  bottom:-6136px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.h2 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.h2 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.h2 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.h3{
+  float:left;
+  left:450px;
+  bottom:-6136px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.h3 h6{
+  font-size: 18px;
+  float: left;
+  left:50px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.h3 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.h3 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.h4{
+  float: left;
+  left:800px;
+  bottom:-6136px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.h4 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.h4 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.h4 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.h5{
+  float: left;
+  left:1150px;
+  bottom:-6136px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.h5 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+.h5 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.h5 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.h6{
+  float: left;
+  left:300px;
+  bottom:-6528px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.h6 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.h6 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.h6 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+.h7{
+  float: left;
+  left:643px;
+  bottom:-6528px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.h7 h6{
+  font-size: 18px;
+  float: left;
+  left:54px;
+  bottom:-29px;
+  position: absolute;
+}
+
+.h7 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.h7 h4{
+  font-size: 23px;
+  float: left;
+  left:108px;
+  bottom:-78px;
+  position: absolute;
+}
+.h8{
+  float: left;
+  left:998px;
+  bottom:-6528px;
+  position:absolute;                                                                                                                                                          
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.h8 h6{
+  font-size: 18px;
+  float: left;
+  left:40px;
+  bottom:-29px;
+  position: absolute;
+}
+.h8 h5{
+  font-size: 12px;
+  float: left;
+  left:17px;
+  bottom:-50px;
+  position: absolute;
+  font-family: Lucida Handwriting;
+  color: #008080;
+}
+.h8 h4{
+  font-size: 23px;
+  float: left;
+  left:64px;
+  bottom:-78px;
+  position: absolute;
+}
+
+/*<seventh product>*/

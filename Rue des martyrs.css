@@ -1,0 +1,627 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+section{
+  height: 100vh;
+  width: 100%;
+}
+section nav{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	position: fixed;
+	left: 0;
+	right: 0;
+	box-shadow: 0 0 10px rgba(0, 0, 0,0.5);
+	z-index:1000;
+	box-shadow:black;
+	background-color:#d6cadd;
+	height: 90px;
+}
+.nav-wrappper2{
+	position: absolute;
+	top:30px;
+	right:100px;
+	cursor: pointer;
+  color: #3b3939;
+}
+.nav-wrappper3{
+	position: absolute;
+	top:30px;
+	right:70px;
+	cursor: pointer;
+  color: #3b3939;
+}
+.nav-wrappper4{
+	position: absolute;
+	top: 26px;
+	right:30px;
+	cursor: pointer;
+  color: #3b3939;
+}
+
+section nav .logo img{
+	margin-top:-50px;
+	padding:0PX;
+	position: absolute;
+	left:-10px;
+	cursor: pointer;
+}
+
+section nav ul{
+	list-style: none;
+	width: 60%;
+	margin:50px;
+}
+
+section nav ul li{
+	display: inline-block;
+	margin:0 10px;
+}
+
+section nav ul li a{
+	text-decoration: none;
+	color: #000;
+	font-weight: 500;
+	font-size: 17px;
+	text-transform: uppercase;
+	transition: 0.1s;
+}
+ section nav ul li a::after{
+ 	content: '';
+ 	width:0;
+ 	box-shadow: #fac031;
+ 	display: block;
+ 	transition: 0.2s linear;
+}
+section nav ul li a::hover::after{
+	width: 100%;
+}
+.loction{
+	bottom:191px;
+	position: absolute;
+}
+.branch h6{
+  font-size:31px;
+  float: left;
+  left:140px;
+  bottom:83px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.branch h5{
+  font-size:15px;
+  float: left;
+  left:157px;
+  bottom:52px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.branch h4{
+  font-size:15px;
+  float: left;
+  left:180px;
+  bottom:32px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.branch h3{
+	font-size:15px;
+  float: left;
+  left:210px;
+  top: 708px;
+  position: absolute; 
+  font-family:Calibri;
+}
+
+.branch2 h6{
+  font-size:31px;
+  float: left;
+  left:490px;
+  bottom:83px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.branch2 h5{
+	font-size:15x;
+  float: left;
+  left:510px;
+  bottom:52px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.branch2 h4{
+	font-size:15px;
+  float: left;
+  left:520px;
+  bottom:32px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.branch2 h3{
+	font-size:15px;
+  float: left;
+  left:550px;
+  top: 708px;
+  position: absolute; 
+  font-family:Calibri;
+}
+
+
+.branch3 h6{
+	font-size:31px;
+  float: left;
+  left:830px;
+  bottom:83px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.branch3 h5{
+	font-size:15px;
+  float: left;
+  left:845px;
+  bottom:52px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.branch3 h4{
+	font-size:15px;
+  float: left;
+  left:865px;
+  bottom:32px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.branch3 h3{
+	font-size:15px;
+  float: left;
+  left:895px;
+  top: 708px;
+  position: absolute; 
+  font-family:Calibri;
+}
+
+
+.branch4 h6{
+	font-size:31px;
+  float: left;
+  left:1170px;
+  bottom:83px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.branch4 h5{
+	font-size:15px;
+  float:left;
+  left: 1185px;
+  bottom:52px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.branch4 h4{
+	font-size:15px;
+  float: left;
+  left:1210px;
+  bottom:32px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.branch4 h3{
+	font-size:15px;
+  float: left;
+  left:1240px;
+  top: 708px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.con-img img{
+  position: absolute;
+  background-repeat:no-repeat;
+  bottom: -670px;
+  float: left;
+  left: 110px;
+}
+
+
+
+
+
+
+.jeni4{
+	font-size:45px;
+  float:right;
+  right:350px;
+  bottom:-220px;
+  position: absolute; 
+  font-family:Lucida Handwriting;
+  font-weight: bold;
+  color:#ba55d3;
+}
+.jeni5 h5{
+  font-size:40px;
+  float:right;
+  right:250px;
+  bottom:-280px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.jeni5 h4{
+  font-size: 14px;
+  float:right;
+  right:180px;
+  bottom:-315px;
+  position: absolute;
+  font-family: Lucida Calligraphy;
+  color:#ba55d3;
+  opacity: 0.8;
+}
+
+
+
+
+.h2{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;  
+}
+.yz{
+  position: absolute;
+  bottom: -400px;
+  left: 700px; 
+}
+
+
+
+
+
+
+.k3{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;
+}
+.af{
+   position: absolute;
+  bottom: -400px;
+  left: 1120px; 
+}
+
+
+
+
+
+.k4{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;
+}
+.ag{
+   position: absolute;
+  bottom: -470px;
+  left: 700px; 
+}
+
+
+
+
+.k5{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;
+}
+.ak{
+   position: absolute;
+  bottom: -470px;
+  left: 1120px; 
+
+}
+
+
+
+
+
+.k6{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;
+}
+.ao{
+   position: absolute;
+  bottom: -550px;
+  left: 870px; 
+
+}
+
+
+
+
+.send2{
+  position: absolute;
+  height: 30px;
+  width: 140px;
+  bottom:-640px;
+  float:right;
+  right:350px;
+  text-align:center;
+  padding:10px;
+  color:black;
+  cursor: pointer;
+  border-style: double;
+  border-color: black;
+  color: #008080;
+}
+
+
+
+
+
+.futter{
+  height: 450px;
+  width: 100%;
+  background-color: #d6cadd;
+  position: absolute;
+  opacity:;
+  bottom: -1200px;
+}
+.futter1{
+  position: absolute;
+  bottom: -1203px;
+  left: 150px;
+}
+.hg{
+  position: absolute;
+  left: 318px;
+  bottom: -1049px;
+}
+.hg1 h5{
+  font-size:28px;
+  float: left;
+  left:180px;
+  bottom:-1082px;
+  position: absolute; 
+  font-family: calibri;
+  color:white;
+  font-weight: bold;
+}
+.hg1 h6{
+  font-size:25px;
+  float: left;
+  left:290px;
+  bottom:-1117px;
+  position: absolute; 
+  font-family: calibri;
+  color: white;
+  font-weight: bold;
+}
+.hg2{
+  position: absolute;
+  left: 290px;
+  bottom: -1172px;
+   cursor: pointer;
+}
+.hg3{
+  position: absolute;
+  left: 345px;
+  bottom: -1172px;
+   cursor: pointer;
+}
+.hg4{
+  position: absolute;
+  left: 380px;
+  bottom: -1175px;
+   cursor: pointer;
+}
+.hg5{
+  position: absolute;
+  left: 415px;
+  bottom: -1180px;
+   cursor: pointer;
+}
+.vc{
+  bottom: -917px;
+  position: absolute;
+  left: 685px;
+}
+
+.futter2 h5{
+  font-size:35px;
+  float: left;
+  left:690px;
+  bottom:-912px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+  font-weight: bold;
+}
+.futter3 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-952px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter3 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+.futter4 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-982px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter4 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+
+.futter5 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-1012px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter5 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+
+.futter6 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-1042px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter6 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+
+.futter7 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-1072px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter7 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+
+.futter8{
+  font-size:35px;
+  float: left;
+  left:910px;
+  bottom:-912px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+  font-weight: bold;
+}
+.vc2{
+  bottom: -5px;
+  position: absolute;
+  left: 0px;
+}
+.futter9 {
+  font-size:23px;
+  float: left;
+  left:920px;
+  bottom:-952px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter10 {
+  font-size:23px;
+  float: left;
+  left:920px;
+  bottom:-982px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+
+.futter11 {
+  font-size:23px;
+  float: left;
+  left:920px;
+  bottom:-1012px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+
+.futter12{
+  font-size:35px;
+  float: left;
+  left:1210px;
+  bottom:-912px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+  font-weight: bold;
+}
+.vc3{
+  bottom: -5px;
+  position: absolute;
+  right: -35px;
+}
+.add {
+  font-size:23px;
+  float: left;
+  left:1200px;
+  bottom:-977px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.add2 {
+  font-size:23px;
+  float: left;
+  left:1200px;
+  bottom:-1012px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+
+.add3 {
+  font-size:23px;
+  float: left;
+  left:1200px;
+  bottom:-1052px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}

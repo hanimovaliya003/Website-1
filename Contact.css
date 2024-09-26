@@ -1,0 +1,716 @@
+ *{
+	margin: 0px;
+	padding: 0px;
+}
+section{
+	height: 100vh;
+	width: 100%;
+}
+
+section nav{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	position: fixed;
+	left: 0;
+	right: 0;
+	box-shadow: 0 0 10px rgba(0, 0, 0,0.5);
+	z-index:1000;
+	box-shadow:black;
+	background-color:#d6cadd;
+	height: 90px;
+}
+.nav-wrappper2{
+	position: absolute;
+	top:30px;
+	right:100px;
+	cursor: pointer;
+  color: #3b3939;
+}
+.nav-wrappper3{
+	position: absolute;
+	top:30px;
+	right:70px;
+	cursor: pointer;
+  color: #3b3939;
+}
+.nav-wrappper4{
+	position: absolute;
+	top: 26px;
+	right:30px;
+	cursor: pointer;
+  color: #3b3939;
+}
+
+section nav .logo img{
+	margin-top:-50px;
+	padding:0PX;
+	position: absolute;
+	left:-10px;
+	cursor: pointer;
+}
+
+section nav ul{
+	list-style: none;
+	width: 60%;
+	margin:50px;
+}
+
+section nav ul li{
+	display: inline-block;
+	margin:0 10px;
+}
+
+section nav ul li a{
+	text-decoration: none;
+	color: #000;
+	font-weight: 500;
+	font-size: 17px;
+	text-transform: uppercase;
+	transition: 0.1s;
+}
+ section nav ul li a::after{
+ 	content: '';
+ 	width:0;
+ 	box-shadow: #fac031;
+ 	display: block;
+ 	transition: 0.2s linear;
+}
+section nav ul li a::hover::after{
+	width: 100%;
+}
+
+
+}
+.contact-img img{
+  position:absolute;																																																																													
+  background-size: cover;
+  opacity:0.3;
+  background-repeat:no-repeat;
+  top: 90px;
+}
+.contact-write h5{
+	font-size:65px;
+  float: left;
+  left:295px;
+  bottom:315px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+
+.contact-write h6{
+	font-size:30px;
+  float: left;
+  left:320px;
+  bottom:400px;
+  position: absolute; 
+  font-family:Lucida Handwriting;
+  font-weight: bold;
+  color:#ba55d3;
+}
+.contact-write2 h6{
+	font-size:30px;
+  float: left;
+  left:640px;
+  bottom:2px;
+  position: absolute; 
+  font-family:Lucida Handwriting;
+  font-weight: bold;
+  color:#ba55d3;
+}
+.contact-write2 h5{
+	font-size:48px;
+  float: left;
+  left:450px;
+  bottom:-65px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.contact-write2 h4{
+	font-size: 20px;
+  float: left;
+  left:336px;
+  bottom:-106px;
+  position: absolute; 
+  font-family:Calibri
+
+}
+.contact-write2 h3{
+	font-size: 18px;
+  float: left;
+  left:373px;
+  bottom:-134px;
+  position: absolute;	
+  font-family:Calibri;
+
+}
+.contact-write2 h2{
+	font-size:18px;
+  float: left;
+  left:507px;
+  bottom:-162px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.img{
+  float:left;
+  left: 0px;
+  position: absolute;
+  bottom:-980px;
+
+}
+.img2{
+	height:680px;
+	width:760px;
+	bottom:-976px;
+	background-color:#d6cadd;
+	position: absolute;
+	float:right;
+	right:0px;
+	opacity: 0.3;
+}
+.img3 h6{
+  font-family:Lucida Handwriting;
+    font-weight: 400;
+  color:#ba55d3;
+  font-weight: bold;
+    text-transform: initial;
+	font-size:25px;
+  float: left;
+  left:1060px;
+  bottom:-500px;
+  position: absolute; 
+
+}
+.img3 h5{
+	font-size:50px;
+  float: left;
+  left:900px;
+  bottom:-570px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.img3 h4{
+  font-size: 18px;
+  float: left;
+  left:1020px;
+  bottom:-610px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.img3 h3{
+  font-size: 18px;
+  float: left;
+  left:1050px;
+  bottom:-640px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.img3 h2{
+  font-size: 18px;
+  float: left;
+  left:1080px;
+  bottom:-670px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.contactus{
+  position: absolute;
+  height: 25px;
+  width: 140px;
+  bottom:-790px;
+  float: left;
+  left:1065px;
+  text-align:center;
+  padding:15px;
+  color:black;
+  cursor: pointer;
+  border-style: double;
+  border-radius: 18px;
+  border-color: black;
+  color: #008080;
+}
+.contactus a{
+  text-decoration: none;
+  color: #008080;
+ }
+.contactus:hover{
+  background-color:#d6cadd;
+  color: black;
+}
+
+
+.jeni{
+  float:right;
+  right: 0px;
+  position: absolute;
+  bottom:-1660px;
+
+}
+.jeni2{
+	height:680px;
+	width:760px;
+	bottom:-1655px;
+	background-color:#d6cadd;
+	position: absolute;
+	float:left;
+	left:0px;
+	opacity: 0.3;
+}
+.jeni3 h6{
+	font-size:25px;
+  float:right;
+  right:1090px;
+  bottom:-1200px;
+  position: absolute; 
+  font-family:Lucida Handwriting;
+  font-weight: bold;
+  color:#ba55d3;
+}
+.jeni3 h5{
+	font-size:50px;
+  float:right;
+  right:920px;
+  bottom:-1280px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.jeni3 h4{
+  font-size: 18px;
+  float:right;
+  right:1040px;
+  bottom:-1320px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.jeni3 h3{
+  font-size: 18px;
+  float:right;
+  right:1070px;
+  bottom:-1350px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.jeni3 h2{
+  font-size: 18px;
+  float:right;
+  right:1110px;
+  bottom:-1380px;
+  position: absolute; 
+  font-family:Calibri;
+}
+.contactus2{
+  position: absolute;
+  height: 25px;
+  width: 140px;
+  bottom:-1500px;
+  float:right;
+  right:1080px;
+  text-align:center;
+  padding:15px;
+  color:black;
+  cursor: pointer;
+  border-style: double;
+  border-radius: 18px;
+  border-color: black;
+  color: #008080;
+}
+.contactus2 a{
+  text-decoration: none;
+  color: #008080;
+}
+.contactus2:hover{
+  background-color:#d6cadd;
+  color: black;
+}
+.jeni4{
+	font-size:45px;
+  float:right;
+  right:700px;
+  bottom:-1900px;
+  position: absolute; 
+  font-family:Lucida Handwriting;
+  font-weight: bold;
+  color:#ba55d3;
+}
+.jeni5 h5{
+  font-size:50px;
+  float:right;
+  right:540px;
+  bottom:-1970px;
+  position: absolute; 
+  font-family:Calibri;
+  font-weight: bold;
+}
+.jeni5 h4{
+  font-size: 14px;
+  float:right;
+  right:438px;
+  bottom:-2000px;
+  position: absolute;
+  font-family: Lucida Calligraphy;
+  color:#ba55d3;
+  opacity: 0.8;
+}
+
+
+.h2{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;  
+}
+
+.form{
+  margin-top:147%;
+  float:left;
+  padding-left:190px;
+}
+
+.h3{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;
+}
+
+.if{
+  margin-top:2233px;
+  float:right;
+  padding-right:190px;
+}
+
+.h4{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;
+}
+
+.ig{
+  margin-top:30px;
+  float:right;
+  padding-right:810px;
+}
+
+.h5{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;
+}
+
+.ik{
+  margin-top:-20px;
+  float:right;
+  padding-right:190px;
+}
+
+.h6{
+  font-size:15px;
+  border: 1px solid white;
+  border: none;
+  outline: none;
+}
+
+.line{
+  width: 100px;
+  background-color: black;
+  height: 20px;
+}
+
+.io{
+  margin-top:40px;
+  float:right;
+  padding-right:490px;
+}
+
+.send{
+  position: absolute;
+  height: 25px;
+  width: 140px;
+  bottom:-2330px;
+  float:right;
+  right:720px;
+  text-align:center;
+  padding:15px;
+  color:black;
+  cursor: pointer;
+  border-style: double;
+  border-radius: 18px;
+  border-color: black;
+  color: #008080;
+}
+.send a{
+  text-decoration: none;
+  color: #008080;
+ }
+ .send:hover{
+  background-color:#d6cadd;
+  color: black;
+}
+
+
+.futter{
+  height: 450px;
+  width: 100%;
+  background-color: #d6cadd;
+  position: absolute;
+  opacity:;
+  bottom: -2968px;
+}
+.futter1{
+  position: absolute;
+  bottom: -2973px;
+  left: 150px;
+}
+.hg{
+  position: absolute;
+  left: 318px;
+  bottom: -2812px;
+}
+.hg1 h5{
+  font-size:28px;
+  float: left;
+  left:180px;
+  bottom:-2850px;
+  position: absolute; 
+  font-family: calibri;
+  color:white;
+  font-weight: bold;
+}
+.hg1 h6{
+  font-size:25px;
+  float: left;
+  left:290px;
+  bottom:-2885px;
+  position: absolute; 
+  font-family: calibri;
+  color: white;
+  font-weight: bold;
+}
+.hg2{
+  position: absolute;
+  left: 290px;
+  bottom: -2940px;
+  cursor: pointer;
+}
+.hg3{
+  position: absolute;
+  left: 345px;
+  bottom: -2940px;
+  cursor: pointer;
+}
+.hg4{
+  position: absolute;
+  left: 380px;
+  bottom: -2943px;
+  cursor: pointer;
+}
+.hg5{
+  position: absolute;
+  left: 415px;
+  bottom: -2948px;
+  cursor: pointer;
+}
+.vc{
+  bottom: -2685px;
+  position: absolute;
+  left: 685px;
+}
+
+.futter2 h5{
+  font-size:35px;
+  float: left;
+  left:690px;
+  bottom:-2680px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+  font-weight: bold;
+}
+.futter3 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-2720px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter3 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+.futter4 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-2750px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter4 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+
+.futter5 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-2780px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter5 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+
+.futter6 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-2810px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter6 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+
+.futter7 {
+  font-size:23px;
+  float: left;
+  left:720px;
+  bottom:-2840px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter7 a{
+  text-decoration: none;
+  color:#0f2f4e;
+}
+
+.futter8{
+  font-size:35px;
+  float: left;
+  left:910px;
+  bottom:-2680px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+  font-weight: bold;
+}
+
+.vc2{
+  bottom: -5px;
+  position: absolute;
+  left: 0px;
+}
+.futter9 {
+  font-size:23px;
+  float: left;
+  left:920px;
+  bottom:-2720px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.futter10 {
+  font-size:23px;
+  float: left;
+  left:920px;
+  bottom:-2750px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+
+.futter11 {
+  font-size:23px;
+  float: left;
+  left:920px;
+  bottom:-2780px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+
+.futter12{
+  font-size:35px;
+  float: left;
+  left:1210px;
+  bottom:-2680px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+  font-weight: bold;
+}
+.vc3{
+  bottom: -5px;
+  position: absolute;
+  right: -35px;
+}
+.add {
+  font-size:23px;
+  float: left;
+  left:1200px;
+  bottom:-2745px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+.add2 {
+  font-size:23px;
+  float: left;
+  left:1200px;
+  bottom:-2780px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
+
+.add3 {
+  font-size:23px;
+  float: left;
+  left:1200px;
+  bottom:-2820px;
+  position: absolute; 
+  font-family: calibri;
+  color:  #0f2f4e;
+}
